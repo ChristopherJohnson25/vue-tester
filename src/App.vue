@@ -1,5 +1,5 @@
 <template lang="pug">
-h1 hello this is a branch
+h1 hello this is a branch 2
 </template>
 
 <script setup>
